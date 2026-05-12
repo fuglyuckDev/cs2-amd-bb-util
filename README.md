@@ -31,3 +31,6 @@ Make sure you set your windows scaling mode to preserve aspect ratio in AMD Adre
   - (Launching the app with a resolution of 800x600 will cause the revert button to attempt to revert back to 800x600, so **MAKE SURE YOU LAUNCH THE APP USING YOUR DEFAULT RES :)**)
 - As this is a simple app with no signature, windows will more than likely throw a fit when trying to launch it. If you're worried about what the code does, have a look at ```AMD BB Util.py```. This is the main python script with partial documentation so you can see what's going on under the hood.
 - **THIS ONLY WORKS ON WINDOWS**
+
+### Support my development:
+[Buy me a coffee here!](buymeacoffee.com/fuglyuck)
