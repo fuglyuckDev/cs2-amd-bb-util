@@ -1,6 +1,9 @@
 # cs2-amd-bb-util
 Utility to combat recurring scaling issues with CS2 Black Bars and AMD. This project aims to circumvent any future updates breaking black bars on CS2 for 4:3 resolutions.
 
+## Download
+[github](https://github.com/fuglyuckDev/cs2-amd-bb-util/blob/main/dist/AMD%20BB%20Util.exe) -> (Click download raw button in top right of screen)
+
 ## How does it work?
 This utility is a simple python script that leverages nircmd to change the resolution of your main monitor in windows rather than in game.
 Simply open the utility, set your resolution and refresh rate and hit "Launch CS2".
